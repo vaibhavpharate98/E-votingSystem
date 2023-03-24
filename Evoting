@@ -1,8 +1,10 @@
 <html>
 <head>
 <body>
-div:img1
-div2:img2
+<div>:img1
+<div2>:img2
+<id>"username"
+<p>My locatio is pune</p>
 </body>
 </head>
 </html>
